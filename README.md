@@ -1,5 +1,5 @@
 # coronavirus_plotting
-A small data visualization project on the spread of coronavirus getting data from [https://ourworldindata.org/coronavirus-source-data][ourworldindata.org].
+A small data visualization project on the spread of coronavirus getting data from https://ourworldindata.org/coronavirus-source-data.
 
 Currently using matplotlib, a Python library.
 
